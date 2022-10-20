@@ -1,0 +1,15 @@
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/bin/Debug/net6.0/BaseOpenTK
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/bin/Debug/net6.0/BaseOpenTK.deps.json
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/bin/Debug/net6.0/BaseOpenTK.runtimeconfig.json
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/bin/Debug/net6.0/BaseOpenTK.dll
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/bin/Debug/net6.0/BaseOpenTK.pdb
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.csproj.AssemblyReference.cache
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.AssemblyInfoInputs.cache
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.AssemblyInfo.cs
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.csproj.CoreCompileInputs.cache
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.dll
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/refint/BaseOpenTK.dll
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.pdb
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/BaseOpenTK.genruntimeconfig.cache
+/Volumes/StudyCS/CodingCorner/graphics/BasicOpenTK/BaseOpenTK/BaseOpenTK/obj/Debug/net6.0/ref/BaseOpenTK.dll
