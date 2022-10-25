@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{0F79781D-3300-4CA1-B6F0-FDD0715367B5}|Default">
-  <MonoDevelop.Ide.ItemProperties.BaseOpenTK FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BaseOpenTK PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BaseOpenTK/Game.cs">
+    <Files>
+      <File FileName="BaseOpenTK/Program.cs" Line="18" Column="2" />
+      <File FileName="BaseOpenTK/Game.cs" Line="12" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BaseOpenTK" expanded="True">
+            <Node name="BaseOpenTK" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
